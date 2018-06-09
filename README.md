@@ -1,2 +1,2 @@
 # FakeID
-Fake Algerian Citizen Identity Generator 🇩🇿
+Fake Algerian Citizenship Generator  🇩🇿
